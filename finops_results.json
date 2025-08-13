@@ -1,0 +1,1568 @@
+{
+    "highest_cost_days": [
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8971828125,
+            "Z_Score": 85.18368714346104,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.866344,
+            "Z_Score": 85.18131116638358,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8415963541668,
+            "Z_Score": 85.17940448339374,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        }
+    ],
+    "anomalies": [
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.837125,
+            "Z_Score": 85.17905998780056,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 33.0,
+            "Z_Score": 2.5222969608798627,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 31.5,
+            "Z_Score": 2.4067294235051837,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 27.0,
+            "Z_Score": 2.0600268113811455,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 28.5,
+            "Z_Score": 2.175594348755825,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 31.5,
+            "Z_Score": 2.4067294235051837,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8971828125,
+            "Z_Score": 85.18368714346104,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.5,
+            "Z_Score": 2.637864498254542,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.790375,
+            "Z_Score": 85.17545813288571,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 31.5,
+            "Z_Score": 2.4067294235051837,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 27.0,
+            "Z_Score": 2.0600268113811455,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.7913489583336,
+            "Z_Score": 85.17553317152979,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 33.0,
+            "Z_Score": 2.5222969608798627,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 31.5,
+            "Z_Score": 2.4067294235051837,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8118463541668,
+            "Z_Score": 85.17711239390248,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8390286458337,
+            "Z_Score": 85.17920665424124,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 33.0,
+            "Z_Score": 2.5222969608798627,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 645.0664322916667,
+            "Z_Score": 49.678970487315745,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 33.0,
+            "Z_Score": 2.5222969608798627,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8415963541668,
+            "Z_Score": 85.17940448339374,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 27.0,
+            "Z_Score": 2.0600268113811455,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 39.1,
+            "Z_Score": 2.9922716128702254,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 27.0,
+            "Z_Score": 2.0600268113811455,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 28.5,
+            "Z_Score": 2.175594348755825,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8390286458337,
+            "Z_Score": 85.17920665424124,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 28.5,
+            "Z_Score": 2.175594348755825,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 33.0,
+            "Z_Score": 2.5222969608798627,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8390286458337,
+            "Z_Score": 85.17920665424124,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.5,
+            "Z_Score": 2.637864498254542,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 33.0,
+            "Z_Score": 2.5222969608798627,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8415963541668,
+            "Z_Score": 85.17940448339374,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 28.5,
+            "Z_Score": 2.175594348755825,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.866344,
+            "Z_Score": 85.18131116638358,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 31.5,
+            "Z_Score": 2.4067294235051837,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 36.0,
+            "Z_Score": 2.7534320356292215,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 30.0,
+            "Z_Score": 2.2911618861305043,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 55.2,
+            "Z_Score": 4.2326965140251165,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 37.08,
+            "Z_Score": 2.8366406625389904,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 28.5,
+            "Z_Score": 2.175594348755825,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 33.0,
+            "Z_Score": 2.5222969608798627,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": -34.296,
+            "Z_Score": -2.662525035897751,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 29.184,
+            "Z_Score": 2.2282931457986788,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 1105.8435,
+            "Z_Score": 85.17955114983438,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        },
+        {
+            "Date": "2024-07-01 00:00:00+00:00",
+            "Cost": 34.296,
+            "Z_Score": 2.6221473131715856,
+            "Anomaly_ZScore": "Anomaly",
+            "Anomaly_IsolationForest": "Anomaly"
+        }
+    ],
+    "predicted_next_month_cost": 0.47
+}
