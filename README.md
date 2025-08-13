@@ -19,7 +19,7 @@ To get this project running on your local machine, follow these steps:
 
 Clone the repository:
 
-git clone https://your-repository-url.com/
+git clone (https://github.com/Lohith1918/FinOps_CostAnalysis.git)
 
 Navigate to the project directory:
 
